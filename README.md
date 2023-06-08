@@ -1,4 +1,5 @@
 <h1 align="left">Hi everyone, I'm Jainab Khatri</h1>
+<h3 align="left">Aspiring Data Analyst and Machine Learning Intern</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainab02" alt="jainab02" /></a> </p>
 
 - 🔭 I’m currently working at **IAFSM, IIT Delhi**
