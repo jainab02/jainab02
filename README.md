@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Jainab Khatri</h1>
 <h3 align="center">Aspiring Data Analyst and Machine Learning Intern</h3>
 
-- 🔭 I’m currently looking for a job role at any firm which helps me to grow my skills ***
+- 🔭 I’m currently looking for a job role at any firm which helps me to grow my skills.
 
 - 🌱 Currently learning some of the amazing technologies: **Deep Learning,Artificial Intelligence,Machine Learning with Rasa Framework**
 
