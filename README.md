@@ -3,9 +3,9 @@
 [![Linkedin: jainabkhatri](https://img.shields.io/badge/-jainabkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainab-khatri/)](https://www.linkedin.com/in/jainab-khatri/)
 [![Instagram: Jainabkhatri](https://img.shields.io/badge/Jainabkhatri-red?&style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/zainab_khatri_)](https://instagram.com/zainab_khatri_)
 
-- 🔭 Currently learning on AI and DSA 
-- 🌱 Developing myself day by day in the field of AI/ML and sort of django
-- 🦾 Persuing *Computer Engineering at GTU*
+- 🔭 Currently learning on DSA and Django
+- 🌱 Goal is to make Softwares that enchances user functionalities.
+- 🦾 Completed *Computer Engineering *
 - 🎓 from *Government Engineering Collge,dahod*
 - 📫 You can reach me **zainabkhatri17@gmail.com**
 - ⚡ Fun fact: I eat too much!!
