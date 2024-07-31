@@ -5,7 +5,7 @@
 
 - 🔭 Currently learning on DSA and Django
 - 🌱 Goal is to make Softwares that enchances user functionalities.
-- 🦾 Completed *Computer Engineering *
+- 🦾 Completed **Computer Engineering**
 - 🎓 from *Government Engineering Collge,dahod*
 - 📫 You can reach me **zainabkhatri17@gmail.com**
 - ⚡ Fun fact: I eat too much!!
